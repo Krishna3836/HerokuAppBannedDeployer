@@ -1,0 +1,6 @@
+requests
+asyncio
+pillow
+pyrogram
+telethon
+aiofiles
