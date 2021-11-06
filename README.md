@@ -1,7 +1,7 @@
 # HerokuAppBannedDeployer
 
 ### IT IS MANDITORY TO FORK THIS REPO
-With this you can deploy repos that are banned/blacklisted by heroku in different platforms
+With this you can deploy repos that are banned/blacklisted by heroku like torrent, botkaca and etc in different platforms
 
 # Deploy Via
 
