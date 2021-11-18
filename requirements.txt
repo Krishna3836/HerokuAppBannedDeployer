@@ -1,12 +1,1 @@
 requests
-asyncio
-pillow
-git+https://github.com/pyrogram/pyrogram@master
-telethon
-aiofiles
-aiohttp
-cryptography
-dnspython
-future
-tgcrypto
-uvloop
